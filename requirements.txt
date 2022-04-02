@@ -1,0 +1,2 @@
+# REQUIREMENTS:
+PyQt6 == 6.2.3
