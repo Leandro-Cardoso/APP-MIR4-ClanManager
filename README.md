@@ -19,7 +19,8 @@
 
 ## Technologies:
 + Python 3.9.7
-+ PyQt6 6.2.3
++ PyQt5 5.15.6
++ SQLite3 3.36.0
 
 ## How to run:
 
